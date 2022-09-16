@@ -15,7 +15,6 @@ from bs4 import BeautifulSoup
 
 import SearchNow
 
-# add empty comment
 
 engine = pyttsx3.init("sapi5")
 voices = engine.getProperty("voices")
